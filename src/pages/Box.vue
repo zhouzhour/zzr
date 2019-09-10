@@ -66,7 +66,9 @@
     </div>
 
     <!-- 底部 -->
-    <div class="footer">1111</div>
+    <div class="footer">
+      <h5>这是底部</h5>
+    </div>
   </div>
 </template>
 
