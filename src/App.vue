@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-
+     这是个大盒子
     <Box/>
 
 
