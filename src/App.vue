@@ -12,7 +12,13 @@ import Box from './pages/Box'
 
 export default {
     components: {
-      Box
+      Box,
+    },
+    data(){
+      return {
+        list: '我',
+        obj: {}
+      }
     }
 }
 </script>
