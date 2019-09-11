@@ -1,6 +1,8 @@
 <template>
   <div id="app">
      这是个大盒子
+
+     这是测试
     <Box/>
 
 
@@ -17,7 +19,7 @@ export default {
     data(){
       return {
         list: '我',
-        obj: {}
+        obj: {},
       }
     }
 }
